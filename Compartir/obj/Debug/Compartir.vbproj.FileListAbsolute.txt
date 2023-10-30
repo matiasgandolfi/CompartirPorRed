@@ -1,0 +1,13 @@
+C:\GIt\Compartir\obj\Debug\Compartir.vbproj.AssemblyReference.cache
+C:\GIt\Compartir\obj\Debug\Compartir.vbproj.SuggestedBindingRedirects.cache
+C:\GIt\Compartir\obj\Debug\Compartir.frmCompartir.resources
+C:\GIt\Compartir\obj\Debug\Compartir.Resources.resources
+C:\GIt\Compartir\obj\Debug\Compartir.vbproj.GenerateResource.cache
+C:\GIt\Compartir\obj\Debug\Compartir.vbproj.CoreCompileInputs.cache
+C:\GIt\Compartir\bin\Debug\Compartir.exe.config
+C:\GIt\Compartir\bin\Debug\Compartir.exe
+C:\GIt\Compartir\bin\Debug\Compartir.pdb
+C:\GIt\Compartir\bin\Debug\Compartir.xml
+C:\GIt\Compartir\obj\Debug\Compartir.exe
+C:\GIt\Compartir\obj\Debug\Compartir.xml
+C:\GIt\Compartir\obj\Debug\Compartir.pdb
